@@ -16,3 +16,4 @@
 
 - Git Flow
 - Github Flow
+- Gitlab Flow
