@@ -4,7 +4,9 @@
 
 - git checkout
 - git commit --amend
-- git reset
+- git reset --soft
+- git reset --mixed
+- git reset --hard
 - git revert
 - git rebase
 - git cherry-pick
