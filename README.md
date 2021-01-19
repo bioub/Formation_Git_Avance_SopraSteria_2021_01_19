@@ -11,3 +11,8 @@
 - git rebase
 - git cherry-pick
 - git log
+
+## Workflow populaires
+
+- Git Flow
+- Github Flow
